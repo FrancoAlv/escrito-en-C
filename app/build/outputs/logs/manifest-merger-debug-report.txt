@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] /home/franco/.gradle/caches/transforms-3/6760e380389e1fe8d0d578824e725e05/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /home/franco/.gradle/caches/transforms-3/faa88e0f7700e13d4131967c1df7d1e2/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/franco/.gradle/caches/transforms-3/06d3d0eae273e44943f2e442700b5686/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/a36ad3ec7cc70f9a1e7f0d31a56b0347/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/franco/.gradle/caches/transforms-3/1fa4eb1892c3cd4b2f8a6948aa82f8a1/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/f27e96bb09a2992d3a4403f2ad57f743/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /home/franco/.gradle/caches/transforms-3/d754e7ce487b25c354202c6c0ee944ea/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/franco/.gradle/caches/transforms-3/f0f2ba9c10b49d57e45f64286213a4ec/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/franco/.gradle/caches/transforms-3/a3ac3e09c2eac1a7e99912ab6a7cac93/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/franco/.gradle/caches/transforms-3/ee25fd95129bfc0f3314ca38d2a92d9d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0] /home/franco/.gradle/caches/transforms-3/942e7e71df0788607ce69a2dbd55bfd0/transformed/fragment-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/franco/.gradle/caches/transforms-3/8576c2f7733e039b1b75ff67dac5ba83/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /home/franco/.gradle/caches/transforms-3/b5e04551258fb944783b0c0b67042ec0/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /home/franco/.gradle/caches/transforms-3/8c830ce0a0152e99ab318f37a15e28bf/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/franco/.gradle/caches/transforms-3/096991da7e1b3028d199d21b32336dc8/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/franco/.gradle/caches/transforms-3/5f704d0ef868577114b41261dc4c18d0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/franco/.gradle/caches/transforms-3/fd4d7dd5fbf1c95161401978b091bd00/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/franco/.gradle/caches/transforms-3/610a39cb58290685344793c2d56257da/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/franco/.gradle/caches/transforms-3/8e0668c944e848ee7a73e7fb22164800/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/franco/.gradle/caches/transforms-3/6af14e74032e690255a5af620bd9ba85/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/franco/.gradle/caches/transforms-3/687c508d7989048b355ba4a08e643a1f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/franco/.gradle/caches/transforms-3/c2c6e7869899aa64a8c0c010152e7b5f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] /home/franco/.gradle/caches/transforms-3/4c7df63f4a0b3da69fd2ad9f62b3c911/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/franco/.gradle/caches/transforms-3/b71368cd98b445c16b7f93ac9ec0f42e/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/franco/.gradle/caches/transforms-3/7a36ba30cd034b855c647b05620087a3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/franco/.gradle/caches/transforms-3/de58417f31ee2da5740b8c8f9c17474f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/franco/.gradle/caches/transforms-3/86e2150c8ae61001ce3e07baf53463a5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/franco/.gradle/caches/transforms-3/37f9fc278a2bcab62dd772af6f3dea6d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/franco/.gradle/caches/transforms-3/ae3d7ae4493d11c21b25c5d58a0c4179/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/franco/.gradle/caches/transforms-3/41ee7f70fb8bba34357d12d368bcaaeb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/franco/.gradle/caches/transforms-3/1c5a58a69d0c5cbeca0023e03366b0c4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/franco/.gradle/caches/transforms-3/286a6dbaac0725f93cb6883546cf5b30/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/franco/.gradle/caches/transforms-3/55e7dbe2558111b07436aba7c31b4c61/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/franco/.gradle/caches/transforms-3/80bec63e8947271c9b0a886b1f15b8fe/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/franco/.gradle/caches/transforms-3/d719620a7c62415da39759d30c0188fa/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/franco/.gradle/caches/transforms-3/3c965fb7c62115ae030ef97f95a5a9cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/franco/.gradle/caches/transforms-3/190c9e4c712be3363d2037bc73a1c97d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/franco/.gradle/caches/transforms-3/4bb0ae2f33a3591907a0bb5af3fcdaac/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/b58102a32fd48b45d73d46e39fbcd534/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/franco/.gradle/caches/transforms-3/f9b1a382026a1d73d4ef6a9c991756b4/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/franco/.gradle/caches/transforms-3/314b86d499c0f99a2629be2bceea5c8f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/franco/.gradle/caches/transforms-3/85d195d6d4f64c57cac122595823a93a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/franco/.gradle/caches/transforms-3/d89294d0291b700a71770368c435a9dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/franco/.gradle/caches/transforms-3/4eb6d43331fedb845a732f1730677542/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/franco/.gradle/caches/transforms-3/3131160bd9b9c5ee736ffecccf49310e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/franco/.gradle/caches/transforms-3/50e23588a4a510355e1a6fe921988462/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/franco/.gradle/caches/transforms-3/4b70631049ea16bfc8054fd79ea8a80f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/franco/.gradle/caches/transforms-3/d42e124c92f0135374ed9e9de717598a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.4.0] /home/franco/.gradle/caches/transforms-3/d754e7ce487b25c354202c6c0ee944ea/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/franco/.gradle/caches/transforms-3/d754e7ce487b25c354202c6c0ee944ea/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/franco/.gradle/caches/transforms-3/f0f2ba9c10b49d57e45f64286213a4ec/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/franco/.gradle/caches/transforms-3/f0f2ba9c10b49d57e45f64286213a4ec/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/franco/.gradle/caches/transforms-3/ae3d7ae4493d11c21b25c5d58a0c4179/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/franco/.gradle/caches/transforms-3/ae3d7ae4493d11c21b25c5d58a0c4179/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/franco/.gradle/caches/transforms-3/3c965fb7c62115ae030ef97f95a5a9cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/franco/.gradle/caches/transforms-3/3c965fb7c62115ae030ef97f95a5a9cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/franco/.gradle/caches/transforms-3/190c9e4c712be3363d2037bc73a1c97d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/franco/.gradle/caches/transforms-3/190c9e4c712be3363d2037bc73a1c97d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/franco/.gradle/caches/transforms-3/ae3d7ae4493d11c21b25c5d58a0c4179/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.nombre.testeotecnico.view.vista2
+ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:13:13-40
+activity#com.nombre.testeotecnico.view.MainActivity
+ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:16:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.4] /home/franco/.gradle/caches/transforms-3/6760e380389e1fe8d0d578824e725e05/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] /home/franco/.gradle/caches/transforms-3/6760e380389e1fe8d0d578824e725e05/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /home/franco/.gradle/caches/transforms-3/faa88e0f7700e13d4131967c1df7d1e2/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /home/franco/.gradle/caches/transforms-3/faa88e0f7700e13d4131967c1df7d1e2/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/franco/.gradle/caches/transforms-3/06d3d0eae273e44943f2e442700b5686/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/franco/.gradle/caches/transforms-3/06d3d0eae273e44943f2e442700b5686/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/a36ad3ec7cc70f9a1e7f0d31a56b0347/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/a36ad3ec7cc70f9a1e7f0d31a56b0347/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/franco/.gradle/caches/transforms-3/1fa4eb1892c3cd4b2f8a6948aa82f8a1/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/franco/.gradle/caches/transforms-3/1fa4eb1892c3cd4b2f8a6948aa82f8a1/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/f27e96bb09a2992d3a4403f2ad57f743/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/f27e96bb09a2992d3a4403f2ad57f743/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /home/franco/.gradle/caches/transforms-3/d754e7ce487b25c354202c6c0ee944ea/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/franco/.gradle/caches/transforms-3/d754e7ce487b25c354202c6c0ee944ea/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/franco/.gradle/caches/transforms-3/f0f2ba9c10b49d57e45f64286213a4ec/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/franco/.gradle/caches/transforms-3/f0f2ba9c10b49d57e45f64286213a4ec/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/franco/.gradle/caches/transforms-3/a3ac3e09c2eac1a7e99912ab6a7cac93/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/franco/.gradle/caches/transforms-3/a3ac3e09c2eac1a7e99912ab6a7cac93/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/franco/.gradle/caches/transforms-3/ee25fd95129bfc0f3314ca38d2a92d9d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/franco/.gradle/caches/transforms-3/ee25fd95129bfc0f3314ca38d2a92d9d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /home/franco/.gradle/caches/transforms-3/942e7e71df0788607ce69a2dbd55bfd0/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /home/franco/.gradle/caches/transforms-3/942e7e71df0788607ce69a2dbd55bfd0/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/franco/.gradle/caches/transforms-3/8576c2f7733e039b1b75ff67dac5ba83/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/franco/.gradle/caches/transforms-3/8576c2f7733e039b1b75ff67dac5ba83/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /home/franco/.gradle/caches/transforms-3/b5e04551258fb944783b0c0b67042ec0/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /home/franco/.gradle/caches/transforms-3/b5e04551258fb944783b0c0b67042ec0/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /home/franco/.gradle/caches/transforms-3/8c830ce0a0152e99ab318f37a15e28bf/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /home/franco/.gradle/caches/transforms-3/8c830ce0a0152e99ab318f37a15e28bf/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/franco/.gradle/caches/transforms-3/096991da7e1b3028d199d21b32336dc8/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/franco/.gradle/caches/transforms-3/096991da7e1b3028d199d21b32336dc8/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/franco/.gradle/caches/transforms-3/5f704d0ef868577114b41261dc4c18d0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/franco/.gradle/caches/transforms-3/5f704d0ef868577114b41261dc4c18d0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/franco/.gradle/caches/transforms-3/fd4d7dd5fbf1c95161401978b091bd00/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/franco/.gradle/caches/transforms-3/fd4d7dd5fbf1c95161401978b091bd00/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/franco/.gradle/caches/transforms-3/610a39cb58290685344793c2d56257da/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/franco/.gradle/caches/transforms-3/610a39cb58290685344793c2d56257da/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/franco/.gradle/caches/transforms-3/8e0668c944e848ee7a73e7fb22164800/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/franco/.gradle/caches/transforms-3/8e0668c944e848ee7a73e7fb22164800/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/franco/.gradle/caches/transforms-3/6af14e74032e690255a5af620bd9ba85/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/franco/.gradle/caches/transforms-3/6af14e74032e690255a5af620bd9ba85/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/franco/.gradle/caches/transforms-3/687c508d7989048b355ba4a08e643a1f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/franco/.gradle/caches/transforms-3/687c508d7989048b355ba4a08e643a1f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/franco/.gradle/caches/transforms-3/c2c6e7869899aa64a8c0c010152e7b5f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/franco/.gradle/caches/transforms-3/c2c6e7869899aa64a8c0c010152e7b5f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /home/franco/.gradle/caches/transforms-3/4c7df63f4a0b3da69fd2ad9f62b3c911/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /home/franco/.gradle/caches/transforms-3/4c7df63f4a0b3da69fd2ad9f62b3c911/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/franco/.gradle/caches/transforms-3/b71368cd98b445c16b7f93ac9ec0f42e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/franco/.gradle/caches/transforms-3/b71368cd98b445c16b7f93ac9ec0f42e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/franco/.gradle/caches/transforms-3/7a36ba30cd034b855c647b05620087a3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/franco/.gradle/caches/transforms-3/7a36ba30cd034b855c647b05620087a3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/franco/.gradle/caches/transforms-3/de58417f31ee2da5740b8c8f9c17474f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/franco/.gradle/caches/transforms-3/de58417f31ee2da5740b8c8f9c17474f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/franco/.gradle/caches/transforms-3/86e2150c8ae61001ce3e07baf53463a5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/franco/.gradle/caches/transforms-3/86e2150c8ae61001ce3e07baf53463a5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/franco/.gradle/caches/transforms-3/37f9fc278a2bcab62dd772af6f3dea6d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/franco/.gradle/caches/transforms-3/37f9fc278a2bcab62dd772af6f3dea6d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/franco/.gradle/caches/transforms-3/ae3d7ae4493d11c21b25c5d58a0c4179/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/franco/.gradle/caches/transforms-3/ae3d7ae4493d11c21b25c5d58a0c4179/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/franco/.gradle/caches/transforms-3/41ee7f70fb8bba34357d12d368bcaaeb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/franco/.gradle/caches/transforms-3/41ee7f70fb8bba34357d12d368bcaaeb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/franco/.gradle/caches/transforms-3/1c5a58a69d0c5cbeca0023e03366b0c4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/franco/.gradle/caches/transforms-3/1c5a58a69d0c5cbeca0023e03366b0c4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/franco/.gradle/caches/transforms-3/286a6dbaac0725f93cb6883546cf5b30/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/franco/.gradle/caches/transforms-3/286a6dbaac0725f93cb6883546cf5b30/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/franco/.gradle/caches/transforms-3/55e7dbe2558111b07436aba7c31b4c61/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/franco/.gradle/caches/transforms-3/55e7dbe2558111b07436aba7c31b4c61/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/franco/.gradle/caches/transforms-3/80bec63e8947271c9b0a886b1f15b8fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/franco/.gradle/caches/transforms-3/80bec63e8947271c9b0a886b1f15b8fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/franco/.gradle/caches/transforms-3/d719620a7c62415da39759d30c0188fa/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /home/franco/.gradle/caches/transforms-3/d719620a7c62415da39759d30c0188fa/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/franco/.gradle/caches/transforms-3/3c965fb7c62115ae030ef97f95a5a9cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/franco/.gradle/caches/transforms-3/3c965fb7c62115ae030ef97f95a5a9cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/franco/.gradle/caches/transforms-3/190c9e4c712be3363d2037bc73a1c97d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/franco/.gradle/caches/transforms-3/190c9e4c712be3363d2037bc73a1c97d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/franco/.gradle/caches/transforms-3/4bb0ae2f33a3591907a0bb5af3fcdaac/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/franco/.gradle/caches/transforms-3/4bb0ae2f33a3591907a0bb5af3fcdaac/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/b58102a32fd48b45d73d46e39fbcd534/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/franco/.gradle/caches/transforms-3/b58102a32fd48b45d73d46e39fbcd534/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/franco/.gradle/caches/transforms-3/f9b1a382026a1d73d4ef6a9c991756b4/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/franco/.gradle/caches/transforms-3/f9b1a382026a1d73d4ef6a9c991756b4/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/franco/.gradle/caches/transforms-3/314b86d499c0f99a2629be2bceea5c8f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/franco/.gradle/caches/transforms-3/314b86d499c0f99a2629be2bceea5c8f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/franco/.gradle/caches/transforms-3/85d195d6d4f64c57cac122595823a93a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/franco/.gradle/caches/transforms-3/85d195d6d4f64c57cac122595823a93a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/franco/.gradle/caches/transforms-3/d89294d0291b700a71770368c435a9dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/franco/.gradle/caches/transforms-3/d89294d0291b700a71770368c435a9dd/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/franco/.gradle/caches/transforms-3/4eb6d43331fedb845a732f1730677542/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/franco/.gradle/caches/transforms-3/4eb6d43331fedb845a732f1730677542/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/franco/.gradle/caches/transforms-3/3131160bd9b9c5ee736ffecccf49310e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/franco/.gradle/caches/transforms-3/3131160bd9b9c5ee736ffecccf49310e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/franco/.gradle/caches/transforms-3/50e23588a4a510355e1a6fe921988462/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/franco/.gradle/caches/transforms-3/50e23588a4a510355e1a6fe921988462/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/franco/.gradle/caches/transforms-3/4b70631049ea16bfc8054fd79ea8a80f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/franco/.gradle/caches/transforms-3/4b70631049ea16bfc8054fd79ea8a80f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/franco/.gradle/caches/transforms-3/d42e124c92f0135374ed9e9de717598a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/franco/.gradle/caches/transforms-3/d42e124c92f0135374ed9e9de717598a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+		ADDED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/franco/Descargas/testeotecnico-20211221T010022Z-001/testeotecnico/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/franco/.gradle/caches/transforms-3/190c9e4c712be3363d2037bc73a1c97d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/franco/.gradle/caches/transforms-3/190c9e4c712be3363d2037bc73a1c97d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/franco/.gradle/caches/transforms-3/3d24b7c5ded344cd4260b8f2ad9ed030/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/franco/.gradle/caches/transforms-3/c55501271c534953631a61ceacf50e00/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

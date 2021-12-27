@@ -1,0 +1,14 @@
+com/nombre/testeotecnico/databinding/ActivityVista2Binding.java
+ com.nombre.testeotecnico.databinding.ActivityVista2Binding
+com/nombre/testeotecnico/databinding/LayoutviewBinding.java
+ com.nombre.testeotecnico.databinding.LayoutviewBinding
+com/nombre/testeotecnico/databinding/DialogoBinding.java
+ com.nombre.testeotecnico.databinding.DialogoBinding
+com/nombre/testeotecnico/databinding/VistacomentarioBinding.java
+ com.nombre.testeotecnico.databinding.VistacomentarioBinding
+com/nombre/testeotecnico/databinding/ActivityMainBinding.java
+ com.nombre.testeotecnico.databinding.ActivityMainBinding
+com/nombre/testeotecnico/databinding/Conetido2Binding.java
+ com.nombre.testeotecnico.databinding.Conetido2Binding
+com/nombre/testeotecnico/BuildConfig.java
+ com.nombre.testeotecnico.BuildConfig
